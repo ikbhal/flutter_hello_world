@@ -1,0 +1,10 @@
+Bismillah
+
+Insha allah create hello world flutter app
+
+Reference
+https://alligator.io/flutter/your-first-flutter-app/
+
+flutter create hello_flutter
+cd hello_flutter
+code .
